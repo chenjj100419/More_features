@@ -1,0 +1,6 @@
+name: Morefeatures
+version: ${project.version}
+main: me.morefeatures.morefeatures.Morefeatures
+api-version: 1.16
+authors: [chenjj100419]
+website: chenjj100419.github.io/More_features/web/index.html

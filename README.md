@@ -22,7 +22,7 @@
 ------------
 - 👌 插件指令 PluginsCommands
 ```
-/setname [自定义名字(CustomName)]
+/setname [玩家不能用 @a @q @s 这些(Player Not Use @a @q @s...)] [自定义名字(CustomName)]
 ```
 ------------
 - 🚕 插件事件 PluginsEvent

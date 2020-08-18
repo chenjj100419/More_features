@@ -37,7 +37,7 @@
 ------------
 - ⭕ 下载 Downloads
 ##### 方式1: [GitHubReleases](https://github.com/chenjj100419/More_features/releases)
-##### 方式2: [mchbs](www.mcbbs.net)
+##### 方式2: [mchbs](https://www.mcbbs.net)
 ------------
 - 💙 捐赠
 1. [爱发电](https://afdian.net/@chenjj100419)

@@ -30,7 +30,7 @@
 
 ------------
 - 💨 如何参与项目
-1. →[表单下载](https:\\chenjj100419.github.io\WebBlogHtml\src\doc\githubrepo.docx)
+1. →[表单下载](https:\\chenjj100419.github.io\WebBlogHtml\src\doc\githubrepo.docx "表单下载")
 2. 填写"GitHubRepo.dox"
 3. 发送至2026159790@qq.com并抄送给chenjj100419@outlook.com
 4. 添加QQ2026159790为好友,添加理由:GitHub_Repo

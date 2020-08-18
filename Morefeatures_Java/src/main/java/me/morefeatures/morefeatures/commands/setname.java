@@ -36,6 +36,8 @@ public class setname implements CommandExecutor {
                     player.sendMessage(ChatColor.RED+"你没有morefeatures.commands.setname的权限!");
                 }
             }
+        }else{
+            System.out.println(ChatColor.RED+"此指令只能玩家执行(兼容性问题)");
         }
         return false;
     }

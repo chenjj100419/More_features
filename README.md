@@ -36,7 +36,7 @@
 4. 添加QQ2026159790为好友,添加理由:GitHub_Repo
 ------------
 - ⭕ 下载 Downloads
-##### 方式1: [GitHubReleases](/releases)
+##### 方式1: [GitHubReleases](https://github.com/chenjj100419/More_features/releases)
 ##### 方式2: [mchbs](www.mcbbs.net)
 ------------
 - 💙 捐赠

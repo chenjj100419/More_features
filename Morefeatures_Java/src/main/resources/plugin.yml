@@ -7,3 +7,7 @@ website: chenjj100419.github.io/More_features/web/index.html
 commands:
   setname:
     description: /setname [玩家(不要使用@a这些)] [自定义名字] 或者 /setname [自定义名字]
+permissions:
+  morefeatures.commands.setname:
+    default: op
+    description: 该节点可以让你自定义名字

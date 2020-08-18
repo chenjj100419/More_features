@@ -27,3 +27,17 @@
 ------------
 - 🚕 插件事件 PluginsEvent
 1.  -- 触发后的事件(Event)
+
+------------
+- 💨 如何参与项目
+1. →[表单下载](https:\\chenjj100419.github.io\WebBlogHtml\src\doc\githubrepo.docx)
+2. 填写"GitHubRepo.dox"
+3. 发送至2026159790@qq.com并抄送给chenjj100419@outlook.com
+4. 添加QQ2026159790为好友,添加理由:GitHub_Repo
+------------
+- ⭕ 下载 Downloads
+##### 方式1: GitHub
+##### 方式2: [mchbs](www.mcbbs.net)
+------------
+- 💙 捐赠
+1. 爱发电

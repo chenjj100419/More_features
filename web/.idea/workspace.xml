@@ -19,7 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3e07a44d-4a61-456a-8530-09667d6544fd" name="Default Changelist" comment="" />
+    <list default="true" id="3e07a44d-4a61-456a-8530-09667d6544fd" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/REDAME.xhtml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,6 +34,7 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="XHTML File" />
       </list>
     </option>
   </component>
@@ -43,7 +48,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="DefaultHtmlFileTemplate" value="XHTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="dart.analysis.tool.window.visible" value="false" />
@@ -69,7 +74,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1597722917612</updated>
-      <workItem from="1597722918747" duration="2688000" />
+      <workItem from="1597722918747" duration="2837000" />
     </task>
     <servers />
   </component>

@@ -1,9 +1,52 @@
 body{
     background-image: url("https://p.pstatp.com/origin/1384400002db14b65a812");
 }
-
-
-
+.btn-download{
+    color: white;
+    background-color: dodgerblue;
+    display: block;
+    border-radius:8px;
+    width: 125px;
+    height: 50px;
+    text-align: center;
+    margin: 3% 30%;
+    vertical-align: middle;
+    font-variant-position: normal;
+    font-size: 22px;
+}
+.btn-download-div{
+    width: auto;
+    height: auto;
+    #margin: 260px;
+}
+.do-title{
+    color: snow;
+    font-family: "Fira Code";
+    border-radius: 4px;
+    font-size: 68px;
+    left: 480px;
+    align-content: center;
+    text-align: center;
+}
+.do-dir{
+    color: darkgray;
+    font-family: 'Fira Code';
+    border-radius: 4px;
+    font-size: 14px;
+    text-align: center;
+}
+.bar_logo{
+    width: 32px;
+    height: 32px;
+}
+#bar_a_3{
+    #align-content: center;
+    text-align: right;
+}
+#bar_li_3{
+    text-align: right;
+    margin: auto 1400px;
+}
 
 ul {
     list-style-type: none;
@@ -31,7 +74,7 @@ li a:hover {
 a:link{
     text-decoration: none;
 }
-a:visited {
+li a:visited {
     color: white;
     text-decoration: none;
     font-family: "Corbel Light";

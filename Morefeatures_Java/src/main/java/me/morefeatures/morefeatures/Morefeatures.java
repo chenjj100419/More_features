@@ -8,6 +8,9 @@ public final class Morefeatures extends JavaPlugin {
     @Override
     public void onEnable() {
         // Plugin startup logic
+        System.out.println("[Morefeatures] Detection depend");
+
+
         System.out.println("[Morefeatures] register commands");
         getCommand("setname").setExecutor(new setname());
 

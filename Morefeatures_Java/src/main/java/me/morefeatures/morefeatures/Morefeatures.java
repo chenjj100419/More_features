@@ -3,6 +3,7 @@ package me.morefeatures.morefeatures;
 import me.morefeatures.morefeatures.commands.setname;
 import org.bukkit.plugin.java.JavaPlugin;
 
+
 public final class Morefeatures extends JavaPlugin {
 
     @Override

@@ -11,4 +11,7 @@ permissions:
   morefeatures.commands.setname:
     default: op
     description: 该节点可以让你自定义名字
+  morefeatures.commands.actionbar:
+    defaulr: op
+    description: 该节点可以让你给任意玩家显示actionbar
 depend: [NBTAPI]

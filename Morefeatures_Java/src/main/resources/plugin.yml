@@ -11,4 +11,4 @@ permissions:
   morefeatures.commands.setname:
     default: op
     description: 该节点可以让你自定义名字
-depend: []
+depend: [NBTAPI]

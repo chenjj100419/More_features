@@ -38,6 +38,9 @@
 - ⭕ 下载 Downloads
 ##### 方式1: [GitHubReleases](https://github.com/chenjj100419/More_features/releases)
 ##### 方式2: [插件专用下载站](https://chenjj100419.github.io/More_features/web/)
+#### 注!:
+##### 插件必须安装依赖:
+##### https://github.com/tr7zw/Item-NBT-API/releases 对应自己服务器版本
 ------------
 - 💙 捐赠
 1. [爱发电](https://afdian.net/@chenjj100419)
